@@ -62,7 +62,7 @@ O relatório foi dividido em **quatro abas principais**, com layout minimalista 
 
 ### 🔹 2. Clientes e Processos
 
-[Clientes e Processos](https://github.com/roaring90s/operacionais-juridico/blob/main/img/CLIENTES.png)
+![Clientes e Processos](https://github.com/roaring90s/operacionais-juridico/blob/main/img/CLIENTES.png)
 
 - Processos por Cliente
 - Custo Total por Cliente
@@ -73,7 +73,7 @@ O relatório foi dividido em **quatro abas principais**, com layout minimalista 
 
 ### 🔹 3. Análise de Custos Jurídicos
 
-[Custos Jurídicos](https://github.com/roaring90s/operacionais-juridico/blob/main/img/CUSTOS.png)
+![Custos Jurídicos](https://github.com/roaring90s/operacionais-juridico/blob/main/img/CUSTOS.png)
 
 - Evolução dos Custos ao longo do tempo
 - Custo Médio por Tipo de Evento
@@ -84,7 +84,7 @@ O relatório foi dividido em **quatro abas principais**, com layout minimalista 
 
 ### 🔹 4. Status & Performance
 
-[Status e Performance](https://github.com/roaring90s/operacionais-juridico/blob/main/img/STATUS.png)
+![Status e Performance](https://github.com/roaring90s/operacionais-juridico/blob/main/img/STATUS.png)
 
 - Processos por Status
 - Processos em Aberto (com base no status)
