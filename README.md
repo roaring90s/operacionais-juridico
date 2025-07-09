@@ -107,5 +107,5 @@ O relatório foi dividido em **quatro abas principais**, com layout minimalista 
 **Marco Meira**  
 Estudante de Análise e Desenvolvimento de Sistemas  
 Foco em projetos com dados, TI e automação  
-🔗 [[linkedin.com/in/seu-usuario](https://www.linkedin.com/in/marcos-sousa-616375249/)
+🔗 [https://www.linkedin.com/in/marcos-sousa-616375249/](https://www.linkedin.com/in/marcos-sousa-616375249/)
 
